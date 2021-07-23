@@ -4,14 +4,14 @@
   "version": "4.0.0",
   "author": "Filipe Linhares",
   "bugs": {
-    "url": "https://github.com/filipelinhares/ress/issues"
+    "url": "https://github.com/own2pwn/ress/issues"
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
     "postcss-cli": "^7.1.1",
     "stylelint": "^13.6.1"
   },
-  "homepage": "https://github.com/filipelinhares/ress",
+  "homepage": "https://github.com/own2pwn/ress",
   "keywords": [
     "css",
     "reset"
@@ -20,7 +20,7 @@
   "main": "dist/ress.min.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/filipelinhares/ress.git"
+    "url": "https://github.com/own2pwn/ress"
   },
   "scripts": {
     "compile": "postcss ress.css --no-map -u cssnano -o dist/ress.min.css",
